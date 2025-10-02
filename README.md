@@ -16,9 +16,9 @@ A Python-based system to manage student/employee data. Supports adding, updating
 
 ## How to Run
 1. Install dependencies:
-## pip install pandas matplotlib:
+ pip install pandas matplotlib
 2. Run the script:
-## python smart_management.py:
+python smart_management.py
 3. Follow the menu options in the terminal.
 
 ## Sample Data
